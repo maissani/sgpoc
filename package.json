@@ -1,0 +1,16 @@
+{
+  "name": "sgpoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js --format summary"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.2.1",
+    "eslint": "^4.19.1"
+  }
+}
